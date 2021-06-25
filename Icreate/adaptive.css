@@ -1,0 +1,47 @@
+@media only screen and (min-device-width: 1400px) {
+    
+}
+@media only screen and (min-device-width: 900px) and (max-device-width: 1024px) {
+    .circle{
+        width: 40%;
+    }
+    .button{
+        transform: translateY(200px);
+    }
+    .input-div{
+        transform: translateY(150px);
+    }
+}
+@media only screen and (min-device-width: 769px) and (max-device-width: 899px) {
+    .circle{
+        width: 40%;
+    }
+    .button{
+        transform: translateY(200px);
+    }
+    .input-div{
+        transform: translateY(150px);
+    }
+}
+@media only screen and (min-device-width: 481px) and (max-device-width: 768px) {
+    .circle{
+        width: 40%;
+    }
+    .button{
+        transform: translateY(200px);
+    }
+    .input-div{
+        transform: translateY(150px);
+    }
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 640px) {
+    .circle{
+        width: 40%;
+    }
+    .button{
+        transform: translateY(200px);
+    }
+    .input-div{
+        transform: translateY(150px);
+    }
+}
